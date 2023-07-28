@@ -6,4 +6,9 @@ let add = 190;
 }
 for(let i = 0 ; i > 10 ; i++){
   console.log(add)
+  
 }
+ let sum = 100;
+ let sum2 = 120;
+ let result = sum + sum2;
+ console.log(result);
